@@ -50,6 +50,7 @@ public class MainActivity extends Activity {
                 showDetailView(person);
             }
         });
+
     }
 
     public void createContactButton(View v)
